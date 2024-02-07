@@ -33,7 +33,7 @@ def fetch_last(KEY, USER):
 
 
 
-//code from https://eugeneyan.com/writing/how-to-update-github-profile-readme-automatically/
+#code from https://eugeneyan.com/writing/how-to-update-github-profile-readme-automatically/
 
 
 def replace_chunk(content, marker, chunk, inline=False):
