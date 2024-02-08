@@ -4,6 +4,9 @@
 ### I love developing Telegram bots and making creative use of differents APIs
 
 
+## For anything you can contact me on Telegram 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" height=100px>](t.me/hikikomuori)
+
 <!-- lastfm status starts -->
 <div>
     		      <hr>
