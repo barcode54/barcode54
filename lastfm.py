@@ -6,7 +6,7 @@ import pathlib
 KEY = os.environ.get("LASTFM_KEY", "")
 USER = os.environ.get("LASTFM_USER", "")
 root = pathlib.Path(__file__).parent.resolve()
-
+#plzwork
 def fetch_last(KEY, USER):
   url = "http://ws.audioscrobbler.com/2.0/"
   params = {
