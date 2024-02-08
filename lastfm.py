@@ -13,7 +13,9 @@ def fetch_last(KEY, USER):
     "limit" : 1,
     "user" : USER,
     "page" : 1,
-    "api_key" : KEY
+    "api_key" : KEY,
+    "method" : "user.getrecenttracks",
+    "format" : "json"
   }
 
   response = requests.get(url=url, params=params)
