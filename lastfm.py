@@ -4,11 +4,11 @@ import re
 import pathlib
 
 print(os.environ)
-KEY = os.environ.get("LASTFM_KEY", "")
-USER = os.environ.get("LASTFM_USER", "")
+LASTFM_KEY = os.environ.get("LASTFM_KEY", "")
+LASTFM_USER = os.environ.get("LASTFM_USER", "")
 root = pathlib.Path(__file__).parent.resolve()
 #plzworkk
-def fetch_last(KEY, USER):
+def fetch_last(USER, KEY):
   url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=1&page=1".format(USER, KEY)
   print(USER, KEY, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
   print(url)
@@ -52,7 +52,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    data = fetch_last(KEY, USER)
+    data = fetch_last(USER, KEY)
     res = '''<div style="position:relative;width:400px; margin:auto">
 	              <img src="image['image']" style="height:400px; width:inherit;">
 	              <div style="position:absolute;bottom:0px;left:0px;width:100%;background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7));">
