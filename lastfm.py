@@ -52,7 +52,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    data = fetch_last(USER, KEY)
+    data = fetch_last(LASTFM_USER, LASTFM_KEY)
     res = '''<div style="position:relative;width:400px; margin:auto">
 	              <img src="image['image']" style="height:400px; width:inherit;">
 	              <div style="position:absolute;bottom:0px;left:0px;width:100%;background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7));">
