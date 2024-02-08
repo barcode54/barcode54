@@ -54,9 +54,10 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     data = fetch_last(LASTFM_USER, LASTFM_KEY)
     res = '''<div>
+    		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="{}" >
-		              <h3> 🎵Listening to {} - {}</h3>
+		              <h3> 🎵 Listening to {} - {}</h3>
     </div> '''.format(data['image'], data['artist'], data['name'])
     rewritten = replace_chunk(readme_contents, "lastfm status", res)
     
