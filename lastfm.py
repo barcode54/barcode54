@@ -14,6 +14,7 @@ def fetch_last(KEY, USER):
   print(response)
   result = response.json()
   print(result)
+  print(USER, KEY)
   track = result["recenttracks"]["track"][0]
   artist = track["artist"]["#text"]
   image = track["image"][3]["#text"]
