@@ -33,5 +33,5 @@ jobs:
         git config --global user.name "README-bot"
         git add -A
         git commit -m "yahoooo" || exit 0
-        git remote set-url --push origin https://barcode54:$GITHUB_TOKEN@github.com/barcode54/barcode54
+        git remote set-url --push origin https://github.com/barcode54/barcode54.git
         git push
