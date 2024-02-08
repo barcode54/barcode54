@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/7e0a0088b2477be6549a2b4e98a4650e.jpg" >
-		              <h3> 🎵 Listening to ReoNa - シャル・ウィ・ダンス?</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9727c258a582cef6bff632634126a9c.jpg" >
+		              <h3> 🎵 Listening to Nightcore - Monster (DotEXE Remix)</h3>
     </div> 
 <!-- lastfm status ends -->
