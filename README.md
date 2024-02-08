@@ -4,5 +4,5 @@
 ### I love developing Telegram bots and making creative use of differents APIs
 
 
-<!-- lastfs status starts -->
-<!-- lastfs status ends -->
+<!-- lastfm status starts -->
+<!-- lastfm status ends -->
