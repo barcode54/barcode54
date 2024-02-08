@@ -6,7 +6,7 @@
 
 <!-- lastfm status starts -->
 <div style="position:relative;width:400px; margin:auto">
-	              <img src="image['image']" style="height:400px; width:inherit;">
+	              <img src="{data['image']}" style="height:400px; width:inherit;">
 	              <div style="position:absolute;bottom:0px;left:0px;width:100%;background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7));">
 		              <h1 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{data['artist']}</h1>
  		              <h2 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{data['name']}</h2>
