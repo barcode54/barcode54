@@ -3,6 +3,7 @@ import requests
 import re
 import pathlib
 
+print(os.environ)
 KEY = os.environ.get("LASTFM_KEY", "")
 USER = os.environ.get("LASTFM_USER", "")
 root = pathlib.Path(__file__).parent.resolve()
