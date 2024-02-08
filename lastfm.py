@@ -54,12 +54,12 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     data = fetch_last(LASTFM_USER, LASTFM_KEY)
     res = '''<div style="position:relative;width:400px; margin:auto">
-	              <img src="{data['image']}" style="height:400px; width:inherit;">
+	              <img src="{}" style="height:400px; width:inherit;">
 	              <div style="position:absolute;bottom:0px;left:0px;width:100%;background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7));">
-		              <h1 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{data['artist']}</h1>
- 		              <h2 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{data['name']}</h2>
+		              <h1 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{}</h1>
+ 		              <h2 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{}</h2>
   	            </div>
-    </div> '''
+    </div> '''.format(data['image'], data['artist'], data['name'])
     rewritten = replace_chunk(readme_contents, "lastfm status", res)
     
     readme.open("w").write(rewritten)
