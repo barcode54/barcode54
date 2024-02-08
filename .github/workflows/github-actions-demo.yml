@@ -20,7 +20,7 @@ jobs:
     - name: Update README
       env:
           LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
-          USER: ${{ secrets.LASTFM_USER }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
       run: |-
         python lastfm.py
         cat README.md
