@@ -19,7 +19,7 @@ def fetch_last(USER, KEY):
   track = result["recenttracks"]["track"][0]
   artist = track["artist"]["#text"]
   image = track["image"][3]["#text"]
-  name = ["name"]
+  name = track["name"]
 
   clg = {
     "name" : name,
