@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e9727c258a582cef6bff632634126a9c.jpg" >
-		              <h3> 🎵 Listening to Nightcore - Monster (DotEXE Remix)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/5ef953bbc608461d51edcdd9f5716562.jpg" >
+		              <h3> 🎵 Listening to Nightcore Reality - Bad Boy</h3>
     </div> 
 <!-- lastfm status ends -->
