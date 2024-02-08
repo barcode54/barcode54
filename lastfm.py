@@ -21,6 +21,7 @@ def fetch_last(KEY, USER):
   response = requests.get(url=url, params=params)
   print(response)
   result = response.json()
+  print(result)
   track = result["recenttracks"]["track"][0]
   artist = track["artist"]["#text"]
   image = track["image"][3]["#text"]
