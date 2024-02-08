@@ -6,7 +6,8 @@
 
 <!-- lastfm status starts -->
 <div>
+    		      <h3>Lastfm status</h3>
 	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/73b4db363f9d5a1666df0e27ae7abff7.jpg" >
-		              <h3>🎵Listening to Kate Vogel - Reasons to Stay</h3>
+		              <h3> 🎵Listening to Kate Vogel - Reasons to Stay</h3>
     </div> 
 <!-- lastfm status ends -->
