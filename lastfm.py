@@ -11,7 +11,7 @@ def fetch_last(KEY, USER):
   url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user="+USER+"&api_key="+KEY+"&format=json&limit=1"
   print(USER, KEY, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
   print(url)
-  response = requests.get(url=url)
+  response = requests.get(url)
   print(response)
   result = response.json()
   print(result)
