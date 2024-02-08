@@ -56,8 +56,8 @@ if __name__ == "__main__":
     res = '''<div style="position:relative;width:400px; margin:auto">
 	              <img src="{}" style="height:400px; width:inherit;">
 	              <div style="position:absolute;bottom:0px;left:0px;width:100%;background-image:linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.7));">
-		              <h1 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{}</h1>
- 		              <h2 style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{}</h2>
+		              <span style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{}</span>
+ 		              <span style="color:white; font-family:consolas; margin-left:10px;overflow: hidden; text-overflow: ellipsis;">{}</span>
   	            </div>
     </div> '''.format(data['image'], data['artist'], data['name'])
     rewritten = replace_chunk(readme_contents, "lastfm status", res)
