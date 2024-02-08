@@ -9,7 +9,7 @@ USER = os.environ.get("LASTFM_USER", "")
 root = pathlib.Path(__file__).parent.resolve()
 #plzworkk
 def fetch_last(KEY, USER):
-  url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=salmonw14&api_key=bc81d9fa405b456b821760540ef0481d&format=json&limit=1&page=1"
+  url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=1&page=1".format(USER, KEY)
   print(USER, KEY, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
   print(url)
   response = requests.get(url)
