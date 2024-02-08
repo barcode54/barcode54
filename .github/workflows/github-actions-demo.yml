@@ -18,8 +18,9 @@ jobs:
     - name: Install dependencies
       run: python -m pip install -r requirements.txt
     - name: Update README
-    - env:
-          RESPONSE: curl -X GET http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${{ secrets.LASTFM_USER }}&api_key=${{ secrets.LASTFM_KEY }}&format=json&limit=1
+      env:
+          LASTFM_KEY: ${{ secrets.LASTFM_KEY }}
+          USER: ${{ secrets.LASTFM_USER }}
       run: |-
         python lastfm.py
         cat README.md
