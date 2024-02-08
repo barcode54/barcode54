@@ -25,10 +25,13 @@ jobs:
         python lastfm.py
         cat README.md
     - name: Commit and push if changed
+      env:
+          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
       run: |-
         git diff
         git config --global user.email "readme-bot@barcode54.com"
         git config --global user.name "README-bot"
         git add -A
         git commit -m "yahoooo" || exit 0
+        git remote set-url --push origin $GITHUB_TOKEN
         git push
