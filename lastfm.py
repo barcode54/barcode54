@@ -10,7 +10,7 @@ root = pathlib.Path(__file__).parent.resolve()
 def fetch_last(KEY, USER):
   url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=1".format(USER, KEY)
 
-  response = requests.get(url=url, params=params)
+  response = requests.get(url=url)
   print(response)
   result = response.json()
   print(result)
