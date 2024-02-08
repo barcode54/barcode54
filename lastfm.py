@@ -2,8 +2,8 @@ import os
 import requests
 import re
 
-KEY = os.environ["LASTFM_KEY"]
-USER = os.environ["LASTFM_USER"]
+KEY = os.environ.get("LASTFM_KEY")
+USER = os.environ.get("LASTFM_USER")
 
 def fetch_last(KEY, USER):
   url = "http://ws.audioscrobbler.com/2.0/"
