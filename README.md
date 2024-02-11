@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/681a56f8d420c1eb1c5e87626d13123d.jpg" >
-		              <h3> 🎵 Listening to Vegas Jones - Trankilo (feat. Nitro)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d43972b3b3b91031a2298d08ce59d64c.jpg" >
+		              <h3> 🎵 Listening to Shinsei Kamattechan - るるちゃんの自殺配信</h3>
     </div> 
 <!-- lastfm status ends -->
