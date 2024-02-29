@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Rosendale Nightcore - Little Girl - Nightcore / Sped Up Version</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/35cebc90966423b89caa5824d50bf3a8.jpg" >
+		              <h3> 🎵 Listening to Anguish - гуляю</h3>
     </div> 
 <!-- lastfm status ends -->
