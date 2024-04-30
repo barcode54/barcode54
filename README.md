@@ -5,7 +5,7 @@
 
 
 ## For anything you can contact me on Telegram 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" height=100px>](https://t.me/hikikomuori)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" height=100px>](https://t.me/lmpostor_syndrome)
 
 <!-- lastfm status starts -->
 <div>
