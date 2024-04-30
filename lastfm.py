@@ -10,12 +10,8 @@ root = pathlib.Path(__file__).parent.resolve()
 #plzworkk
 def fetch_last(USER, KEY):
   url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=1&page=1".format(USER, KEY)
-  print(USER, KEY, "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-  print(url)
   response = requests.get(url)
-  print(response)
   result = response.json()
-  print(result)
   track = result["recenttracks"]["track"][0]
   artist = track["artist"]["#text"]
   image = track["image"][3]["#text"]
