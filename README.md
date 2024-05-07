@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/86edc46b15defcfa73d46e961a36f213.jpg" >
-		              <h3> 🎵 Listening to usedcvnt - inhuman</h3>
+		              <h3> 🎵 Listening to usedcvnt - sorry mom, i'm making breakcore xd</h3>
     </div> 
 <!-- lastfm status ends -->
