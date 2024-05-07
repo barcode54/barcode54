@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/99d45df4cf1be1e71bdf9f1564f33551.jpg" >
-		              <h3> 🎵 Listening to Grechka - Люби меня люби</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/db2939c0bbceb4f041d09d833638488b.jpg" >
+		              <h3> 🎵 Listening to Zbigniew Wodecki - Lubię wracać tam gdzie byłem</h3>
     </div> 
 <!-- lastfm status ends -->
