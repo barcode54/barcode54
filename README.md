@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b34d404eb3969e736f8f6967729e7856.jpg" >
-		              <h3> 🎵 Listening to THE ORAL CIGARETTES - Kyouran Hey Kids!!</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ad6e4261b5fd5b18244ae2061bec0e7.jpg" >
+		              <h3> 🎵 Listening to Higuchi Ai - Akuma no Ko</h3>
     </div> 
 <!-- lastfm status ends -->
