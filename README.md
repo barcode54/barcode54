@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ee30bddb52af8502fb2ce57af8db8cc.jpg" >
-		              <h3> 🎵 Listening to Alan Walker - Darkside</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2edfa3871bdcab36f01b0b92e8b50d0f.jpg" >
+		              <h3> 🎵 Listening to 物語シリーズ - 恋愛サーキュレーション</h3>
     </div> 
 <!-- lastfm status ends -->
