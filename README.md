@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d853cfc362edd49b5acff13bc7c254ba.png" >
-		              <h3> 🎵 Listening to Rauf & Faik - Детство</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/473699f548be065bcbb0f7957d8fc145.jpg" >
+		              <h3> 🎵 Listening to Lukas Graham - 7 Years</h3>
     </div> 
 <!-- lastfm status ends -->
