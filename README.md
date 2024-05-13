@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/22a0efcf4002e62622c57b58c727239d.jpg" >
-		              <h3> 🎵 Listening to Alstroemeria Records - Bad Apple!! feat. nomico</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0180b7551c6134668514fc89372ab800.png" >
+		              <h3> 🎵 Listening to Aimer - SPARK-AGAIN</h3>
     </div> 
 <!-- lastfm status ends -->
