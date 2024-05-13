@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2887bd0046021efbc2425f219851c544.jpg" >
-		              <h3> 🎵 Listening to fourfolium〔涼風青葉(CV:高田憂希)/滝本ひふみ(CV:山口愛)/篠田はじめ(CV:戸田めぐみ)/飯島ゆん(CV:竹尾歩美)〕 - STEP by STEP UP↑↑↑↑</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/179effeb5d8dc8b31ebcf51279767794.jpg" >
+		              <h3> 🎵 Listening to usedcvnt - disappear like everyone else</h3>
     </div> 
 <!-- lastfm status ends -->
