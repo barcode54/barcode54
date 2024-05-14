@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/021067411cb739049442d7804e001157.jpg" >
-		              <h3> 🎵 Listening to 天道花憐(CV.金元寿子) - GAMERS!</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0652f8468b36c1c58a8bf4165b23f0e7.png" >
+		              <h3> 🎵 Listening to 学園生活部 - ふ・れ・ん・ど・し・た・い</h3>
     </div> 
 <!-- lastfm status ends -->
