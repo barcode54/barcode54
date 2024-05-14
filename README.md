@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/91a5672b3b36f83f20989f9eb64d6bc3.jpg" >
-		              <h3> 🎵 Listening to shami momo - Machikado Tangent</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/021067411cb739049442d7804e001157.jpg" >
+		              <h3> 🎵 Listening to 天道花憐(CV.金元寿子) - GAMERS!</h3>
     </div> 
 <!-- lastfm status ends -->
