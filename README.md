@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Clari3 - Nightcore → lovely (lyrics)</h3>
+		              <h3> 🎵 Listening to youlazybum - you can be king again</h3>
     </div> 
 <!-- lastfm status ends -->
