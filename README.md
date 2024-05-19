@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Anna Blue & Damien Dawn - Anna Blue- Silent Scream (Official Music Video)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b84297e6f2a33cfa5930f7480547ef5.jpg" >
+		              <h3> 🎵 Listening to Sasha Alex Sloan - Older</h3>
     </div> 
 <!-- lastfm status ends -->
