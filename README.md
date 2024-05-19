@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Love Story - Taylor Swift</h3>
+		              <h3> 🎵 Listening to Joost - Europapa</h3>
     </div> 
 <!-- lastfm status ends -->
