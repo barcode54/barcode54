@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c3ab79095f7228fc45148e02e280ac1.jpg" >
-		              <h3> 🎵 Listening to Anna Blue - Every Time the Rain Comes Down</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
+		              <h3> 🎵 Listening to ღ NightcoreGalaxy ღ - 「Nightcore」→ House With No Mirrors - (Lyrics)</h3>
     </div> 
 <!-- lastfm status ends -->
