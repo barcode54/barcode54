@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b84297e6f2a33cfa5930f7480547ef5.jpg" >
-		              <h3> 🎵 Listening to Sasha Alex Sloan - Older</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/9c3ab79095f7228fc45148e02e280ac1.jpg" >
+		              <h3> 🎵 Listening to Anna Blue - Every Time the Rain Comes Down</h3>
     </div> 
 <!-- lastfm status ends -->
