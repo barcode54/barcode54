@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Kana Music Box - Spiral moon (Sereno) - Music Box Cover</h3>
+		              <h3> 🎵 Listening to Steven Universe - Familiar</h3>
     </div> 
 <!-- lastfm status ends -->
