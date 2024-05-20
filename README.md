@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Steven Universe - Familiar</h3>
+		              <h3> 🎵 Listening to We the Kings - Sad Song</h3>
     </div> 
 <!-- lastfm status ends -->
