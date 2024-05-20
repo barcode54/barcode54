@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c8f5cf90fa8a0ce36ce1297248b2f7a7.jpg" >
-		              <h3> 🎵 Listening to A Touch of Class - Around the World (La la la la La)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e168b4ffe4794591975a9df52a30b903.jpg" >
+		              <h3> 🎵 Listening to Stephanie Mabey - The Zombie Song</h3>
     </div> 
 <!-- lastfm status ends -->
