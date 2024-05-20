@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to The Rains of Castamere - Game of Thrones – Eva Auner</h3>
+		              <h3> 🎵 Listening to The Cardigans - Taylor Swift ( TikTok Version // Best Part Loop) with Rain (slowed + reverb)</h3>
     </div> 
 <!-- lastfm status ends -->
