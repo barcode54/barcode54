@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Kai Engel - December</h3>
+		              <h3> 🎵 Listening to kokeshi. - 𝙃𝙤𝙢𝙚 - 𝙍𝙚𝙨𝙤𝙣𝙖𝙣𝙘𝙚 (𝙨𝙡𝙤𝙬𝙚𝙙 8𝙙)</h3>
     </div> 
 <!-- lastfm status ends -->
