@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Sati Akura - Mind Brand [Russian ver.] (feat. Billy Raven)</h3>
+		              <h3> 🎵 Listening to Crusher-P & Gumi English - Echo</h3>
     </div> 
 <!-- lastfm status ends -->
