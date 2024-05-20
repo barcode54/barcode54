@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to kokeshi. - 𝙋𝙖𝙨𝙩𝙚𝙡 𝙂𝙝𝙤𝙨𝙩- 𝘿𝙖𝙧𝙠 𝘽𝙚𝙖𝙘𝙝 (𝙨𝙡𝙤𝙬𝙚𝙙 8𝙙)</h3>
+		              <h3> 🎵 Listening to 𝕬𝖓𝖆𝖘𝖙𝖆𝖘𝖎𝖆 - Army Dreamers | slowed</h3>
     </div> 
 <!-- lastfm status ends -->
