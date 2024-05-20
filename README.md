@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Rin Kun - ♪ Nightcore - The One That Got Away 【Lyrics】</h3>
+		              <h3> 🎵 Listening to Nightcore Lab NCL - Nightcore - Rewrite The Stars (switching vocals)</h3>
     </div> 
 <!-- lastfm status ends -->
