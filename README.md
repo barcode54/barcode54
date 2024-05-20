@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to 増田俊郎 - childhood memories (slowed n reverb)</h3>
+		              <h3> 🎵 Listening to Flying High - Nightcore</h3>
     </div> 
 <!-- lastfm status ends -->
