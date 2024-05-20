@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to cupcakeqween - merry go round of life slowed (tiktok ver)</h3>
+		              <h3> 🎵 Listening to Last Voyage - Max LL</h3>
     </div> 
 <!-- lastfm status ends -->
