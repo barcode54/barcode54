@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Hello Charlotte: EP 2 OST - Oneiri</h3>
+		              <h3> 🎵 Listening to Hello Charlotte arrange - Eyler</h3>
     </div> 
 <!-- lastfm status ends -->
