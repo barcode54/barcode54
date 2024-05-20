@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Winter - lofi (stardew valley)</h3>
+		              <h3> 🎵 Listening to Per Störby Jutbring - As You Left It</h3>
     </div> 
 <!-- lastfm status ends -->
