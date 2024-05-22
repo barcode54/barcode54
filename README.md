@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to We the Kings - Sad Song</h3>
+		              <h3> 🎵 Listening to RubyChan's Nightcore - 【Nightcore】→ Don't You Worry Child ( Female Version ) || Lyrics</h3>
     </div> 
 <!-- lastfm status ends -->
