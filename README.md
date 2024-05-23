@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Nightcore - 18</h3>
+		              <h3> 🎵 Listening to Hirose - أوشي نو كو أغنية البداية مدبلجة باللغة العربية  |『 YOASOBI /Idol 』Oshi no Ko Op full  ARABIC cover</h3>
     </div> 
 <!-- lastfm status ends -->
