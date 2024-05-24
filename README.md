@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Rachel Platten - 「Nightcore」 Fight Song  - Rachel Platten ♡ (Lyrics)</h3>
+		              <h3> 🎵 Listening to 「Nightcore」 Dusk Till Dawn - ZAYN ft. Sia ♡  (feat. Sia)</h3>
     </div> 
 <!-- lastfm status ends -->
