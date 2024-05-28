@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to P!nk - 「Nightcore」 Try - P!nk ♡ (Lyrics)</h3>
+		              <h3> 🎵 Listening to (shinakey) - [FULL] IDSMILE (アイディスマイル) / 25時、ナイトコードで。 × MEIKO (Color Coded Kan/Rom/Eng Lyrics) プロセカ</h3>
     </div> 
 <!-- lastfm status ends -->
