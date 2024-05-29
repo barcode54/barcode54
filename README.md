@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a2835e2a6a283fd38b6f14e4cb1949bc.jpg" >
-		              <h3> 🎵 Listening to Shinsei Kamattechan - Ruru's Suicide Show on a Livestream</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3c01fadf89713ebcc1893403a33b537c.jpg" >
+		              <h3> 🎵 Listening to WADATAKEAKI KurageP - Watashino Aharu</h3>
     </div> 
 <!-- lastfm status ends -->
