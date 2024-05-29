@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a938c34fbcf1ab5ce6779ee96b23dfa2.png" >
-		              <h3> 🎵 Listening to Cö shu Nie - asphyxia</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1815616f0600bf8989c23af5b8fb8c38.jpg" >
+		              <h3> 🎵 Listening to Nightcord at 25:00 - IDSMILE (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)</h3>
     </div> 
 <!-- lastfm status ends -->
