@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a2835e2a6a283fd38b6f14e4cb1949bc.jpg" >
-		              <h3> 🎵 Listening to Shinsei Kamattechan - るるちゃんの自殺配信 - Ruru's Suicide Show on a Livestream</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
+		              <h3> 🎵 Listening to RubyChan's Nightcore - 【Nightcore】→ Don't You Worry Child ( Female Version ) || Lyrics</h3>
     </div> 
 <!-- lastfm status ends -->
