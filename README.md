@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Nightcore - Love The Way You Lie // lyrics</h3>
+		              <h3> 🎵 Listening to Sprout Haven - ❀ 7 Years | GSGA OC Animatic</h3>
     </div> 
 <!-- lastfm status ends -->
