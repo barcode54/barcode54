@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1815616f0600bf8989c23af5b8fb8c38.jpg" >
-		              <h3> 🎵 Listening to Nightcord at 25:00 - アイディスマイル - IDSMILE (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/329b90cf59dd33359d8a0d8316c94733.png" >
+		              <h3> 🎵 Listening to t.A.T.u. - Я сошла с ума</h3>
     </div> 
 <!-- lastfm status ends -->
