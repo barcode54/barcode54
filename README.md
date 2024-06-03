@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Minami - main actor</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b0b9c22a19177dc746503d2c02c03c3a.jpg" >
+		              <h3> 🎵 Listening to Cö shu Nie - asphyxia (piano ver.) - Asphyxia (Piano Version)</h3>
     </div> 
 <!-- lastfm status ends -->
