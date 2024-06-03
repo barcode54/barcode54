@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/60f38a01dcb9fe4a1d93b1e92181d9cd.jpg" >
-		              <h3> 🎵 Listening to Roce - 自主 - Jishu</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
+		              <h3> 🎵 Listening to Oktavia - Hated by life itself. english ver. 【Oktavia】命に嫌われている。【英語で歌ってみた】</h3>
     </div> 
 <!-- lastfm status ends -->
