@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0dc4a3972990fe187c5fa7b184182690.jpg" >
-		              <h3> 🎵 Listening to Ado - 罪と罰 - Crime And Punishment</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a2835e2a6a283fd38b6f14e4cb1949bc.jpg" >
+		              <h3> 🎵 Listening to Shinsei Kamattechan - るるちゃんの自殺配信 - Ruru's Suicide Show on a Livestream</h3>
     </div> 
 <!-- lastfm status ends -->
