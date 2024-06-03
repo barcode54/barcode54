@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a3e5df9ea95d3d9f97da625720df9966.png" >
-		              <h3> 🎵 Listening to Shinsei Kamattechan - ベルセウスの空 - beruseusunosora</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/fdcab8912dba9970d564c1d5732402bd.jpg" >
+		              <h3> 🎵 Listening to Tuyu - 泥の分際で私だけの大切を奪おうだなんて - Being low as dirt, taking what's important from me</h3>
     </div> 
 <!-- lastfm status ends -->
