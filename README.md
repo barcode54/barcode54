@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to HOYO-MiX & Cécilia Cara - La vaguelette</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cc9719f1e0c322655a49fb57791920af.jpg" >
+		              <h3> 🎵 Listening to Madds Buckley - The Red Means I Love You</h3>
     </div> 
 <!-- lastfm status ends -->
