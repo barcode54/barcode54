@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to YOASOBI - 怪物</h3>
+		              <h3> 🎵 Listening to 悪魔の子 - Akuma no Ko</h3>
     </div> 
 <!-- lastfm status ends -->
