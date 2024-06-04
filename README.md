@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/cc9719f1e0c322655a49fb57791920af.jpg" >
-		              <h3> 🎵 Listening to Madds Buckley - The Red Means I Love You</h3>
+	              <img src="" >
+		              <h3> 🎵 Listening to Sati Akura - USSEEWA (Russian ver.)</h3>
     </div> 
 <!-- lastfm status ends -->
