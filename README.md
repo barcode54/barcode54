@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to ツユ - 泥の分際で私だけの大切を奪おうだなんて</h3>
+		              <h3> 🎵 Listening to すずめ - Suzume (feat. Toaka)</h3>
     </div> 
 <!-- lastfm status ends -->
