@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to ϻέLɪσdȁʂ - [ nightcore ] - My_Demons</h3>
+		              <h3> 🎵 Listening to Nightcore - Diamonds - Lyrics</h3>
     </div> 
 <!-- lastfm status ends -->
