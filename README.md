@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/80f514c9271a3750f297989b6f95cce9.jpg" >
-		              <h3> 🎵 Listening to Studio Killers - Jenny (I Wanna Ruin Our Friendship)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1c950c3d48bb8ded40c4cb27b736837b.jpg" >
+		              <h3> 🎵 Listening to The Living Tombstone - My Ordinary Life</h3>
     </div> 
 <!-- lastfm status ends -->
