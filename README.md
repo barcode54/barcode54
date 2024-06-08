@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Syrex - Nightcore - Darkside - (Alan Walker / Lyrics)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/569788d5062b8e51e6f5e83c9f7e606f.jpg" >
+		              <h3> 🎵 Listening to Dan Salvato - Your Reality</h3>
     </div> 
 <!-- lastfm status ends -->
