@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Nightcore - Rockefeller Street</h3>
+		              <h3> 🎵 Listening to Nightcore - E.T. (Katy Perry)</h3>
     </div> 
 <!-- lastfm status ends -->
