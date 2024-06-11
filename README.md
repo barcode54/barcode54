@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to L'Inspiegabile Podcast - I 7 casi di ISTERIA di MASSA più INSPIEGABILI della STORIA - L'inspiegabile podcast</h3>
+		              <h3> 🎵 Listening to L'Inspiegabile Podcast - CA'DARIO: il palazzo MALEDETTO di Venezia - L'Inspiegabile Podcast</h3>
     </div> 
 <!-- lastfm status ends -->
