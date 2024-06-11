@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Elfen Lied - Lilium Full - High Quality</h3>
+		              <h3> 🎵 Listening to Rosendale - 「Nightcore」→ Six Pills (Lyrics) by Rosendale</h3>
     </div> 
 <!-- lastfm status ends -->
