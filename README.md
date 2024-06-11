@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Eve - 廻廻奇譚 - Kaikai Kitan</h3>
+		              <h3> 🎵 Listening to kasidid2 - 【東方】Bad Apple!! ＰＶ【影絵】</h3>
     </div> 
 <!-- lastfm status ends -->
