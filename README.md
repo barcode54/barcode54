@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f718febfe13c0f349f136d6a68ce14e0.jpg" >
-		              <h3> 🎵 Listening to Ado - うっせぇわ - Usseewa</h3>
+	              <img src="" >
+		              <h3> 🎵 Listening to (shinakey) - [FULL VER] IDSMILE (アイディスマイル) / 25時、ナイトコードで。 × MEIKO (Color Coded Kan/Rom/Eng Lyrics) プロセカ</h3>
     </div> 
 <!-- lastfm status ends -->
