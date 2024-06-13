@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/c9c6f2a16dbfbcf9bc4dbe922d75a079.jpg" >
-		              <h3> 🎵 Listening to Kill Eva & ENCASSATOR - Psycho Dreams (Sped Up)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d8fc4adf4375439581811a7487c979f5.png" >
+		              <h3> 🎵 Listening to The Cab - Angel With A Shotgun</h3>
     </div> 
 <!-- lastfm status ends -->
