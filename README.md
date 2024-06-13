@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Rosendale - 「Nightcore」→ Six Pills (Lyrics) by Rosendale</h3>
+	              <img src="" >
+		              <h3> 🎵 Listening to unravel  日本武道館 2023.8.30 - Ado</h3>
     </div> 
 <!-- lastfm status ends -->
