@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Britney Manson - fashion (slowed down)</h3>
+		              <h3> 🎵 Listening to Floki, ЭВСЭ - Ворую алкоголь (slowed)</h3>
     </div> 
 <!-- lastfm status ends -->
