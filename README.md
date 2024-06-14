@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Fly By Nightcore & Jada Facer - Be Alright (Sped Up Version)</h3>
+	              <img src="" >
+		              <h3> 🎵 Listening to ¡★𝐶𝑎𝑟𝑑𝑎𝑟ℎ𝑦𝑠 - Faster N Harder ♪ 6arelyhuman (slowed + reverb)</h3>
     </div> 
 <!-- lastfm status ends -->
