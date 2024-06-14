@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to ¡★𝐶𝑎𝑟𝑑𝑎𝑟ℎ𝑦𝑠 - Faster N Harder ♪ 6arelyhuman (slowed + reverb)</h3>
+		              <h3> 🎵 Listening to 𝙎𝙥𝙚𝙙 𝙪𝙥 𝙘𝙝𝙖𝙧 - 𝙁𝙡𝙤𝙠𝙞 𝙭 𝙡𝙤𝙨𝙩 𝙨𝙤𝙪𝙡 (𝙧𝙚𝙢𝙞𝙭) // 𝙎𝙥𝙚𝙙 𝙪𝙥</h3>
     </div> 
 <!-- lastfm status ends -->
