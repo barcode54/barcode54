@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img src="" >
-		              <h3> 🎵 Listening to Nightcore - 18</h3>
+		              <h3> 🎵 Listening to Sati Akura - USSEEWA (Russian ver.)</h3>
     </div> 
 <!-- lastfm status ends -->
