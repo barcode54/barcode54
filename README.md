@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="" >
-		              <h3> 🎵 Listening to Floki, ЭВСЭ - Ворую алкоголь (slowed)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b665c5730bec1623f3d54ee57967210.jpg" >
+		              <h3> 🎵 Listening to дипинс - Этажи</h3>
     </div> 
 <!-- lastfm status ends -->
