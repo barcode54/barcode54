@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="" >
-		              <h3> 🎵 Listening to xxlurveanimexx - Brave Song by Aoi Tada FULL (angel beats ending)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/bcccf42053031bf063e4e4fefbfd759d.jpg" >
+		              <h3> 🎵 Listening to Tanin Jazz - Виртуальная любовь</h3>
     </div> 
 <!-- lastfm status ends -->
