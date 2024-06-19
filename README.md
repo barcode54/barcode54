@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3dc9eaeae984adafd4bdf54f1b53f0d1.jpg" >
-		              <h3> 🎵 Listening to Lowlow - Supereroi falliti</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/e4188e03e01114572a64e40dcaa3d144.jpg" >
+		              <h3> 🎵 Listening to Murubutu - Scirocco (featuring Rancore)</h3>
     </div> 
 <!-- lastfm status ends -->
