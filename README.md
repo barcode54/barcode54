@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/68a8b2a2a941d818dd972e12f70295ce.jpg" >
-		              <h3> 🎵 Listening to TEDUA - Vertigini</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0eeb5b58f3fd5d942d6d74ece65d5550.jpg" >
+		              <h3> 🎵 Listening to TEDUA - Lingerie (feat. Sfera Ebbasta)</h3>
     </div> 
 <!-- lastfm status ends -->
