@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/323b6354005a760d0e9b97382cacb4c8.jpg" >
-		              <h3> 🎵 Listening to Madman - Veleno 6</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d37d3752130d4adf8a7262e35d45947d.jpg" >
+		              <h3> 🎵 Listening to Mondo Marcio - Dentro Alla Scatola</h3>
     </div> 
 <!-- lastfm status ends -->
