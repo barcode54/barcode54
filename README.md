@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/efaae10129eb4780c7a82fe8f724b851.png" >
-		              <h3> 🎵 Listening to Fear, and Loathing in Las Vegas - Virtue and Vice</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/de685f22b95d0dfd535c6b94d70bb72c.jpg" >
+		              <h3> 🎵 Listening to lieless - Пепел</h3>
     </div> 
 <!-- lastfm status ends -->
