@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f07077e74c6e4a60cac96194c57ae960.png" >
-		              <h3> 🎵 Listening to Alessia Cara - Scars to Your Beautiful</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b3abdec13971aaccdcee2d0759ee7a32.jpg" >
+		              <h3> 🎵 Listening to Nightcore Reality - Monsters (feat. Danika)</h3>
     </div> 
 <!-- lastfm status ends -->
