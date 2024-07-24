@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0619fbf5c35062269ad6cf81dfc522b4.jpg" >
-		              <h3> 🎵 Listening to Gemitaiz - Davide (feat. Coez)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/87d03a23bafa39fb79369af22127d978.png" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - アイディスマイル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)</h3>
     </div> 
 <!-- lastfm status ends -->
