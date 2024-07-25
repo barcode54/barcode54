@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1650d521efd14d342b4d71934905f92a.jpg" >
-		              <h3> 🎵 Listening to We the Kings - Sad Song (feat. Elena Coats)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b84297e6f2a33cfa5930f7480547ef5.jpg" >
+		              <h3> 🎵 Listening to Sasha Alex Sloan - Older</h3>
     </div> 
 <!-- lastfm status ends -->
