@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a8f1a1570f6623cf7cfb53ad9d79a508.png" >
-		              <h3> 🎵 Listening to Shade - Irraggiungibile (feat. Federica Carta)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecbddb899c22a9b6be2794e347b8cdc1.jpg" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ノンブレス・オブリージュ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
