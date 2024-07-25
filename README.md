@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0bd273edc26203d83811c2324aea31d7.jpg" >
-		              <h3> 🎵 Listening to Clean Bandit - Solo (feat. Demi Lovato)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3d49e3c3c26cb28618f44ee7d598f81c.jpg" >
+		              <h3> 🎵 Listening to Måneskin - ZITTI E BUONI</h3>
     </div> 
 <!-- lastfm status ends -->
