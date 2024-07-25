@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/ecbddb899c22a9b6be2794e347b8cdc1.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ノンブレス・オブリージュ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/224ee098a5c032bb91824e90f39edcd8.jpg" >
+		              <h3> 🎵 Listening to MIIA - Dynasty</h3>
     </div> 
 <!-- lastfm status ends -->
