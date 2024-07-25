@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/603e9feda58653322381d61723a611cc.jpg" >
-		              <h3> 🎵 Listening to YOASOBI - 夜に駆ける</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/a8f1a1570f6623cf7cfb53ad9d79a508.png" >
+		              <h3> 🎵 Listening to Shade - Irraggiungibile (feat. Federica Carta)</h3>
     </div> 
 <!-- lastfm status ends -->
