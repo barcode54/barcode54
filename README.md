@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/51d66d9a8bbd562f854d6a35fac5bd37.png" >
-		              <h3> 🎵 Listening to Fly By Nightcore - Without Me (Sped Up Version)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1650d521efd14d342b4d71934905f92a.jpg" >
+		              <h3> 🎵 Listening to We the Kings - Sad Song (feat. Elena Coats)</h3>
     </div> 
 <!-- lastfm status ends -->
