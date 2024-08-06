@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/d606d0e2f9bbe75ef87fb270f9268299.jpg" >
-		              <h3> 🎵 Listening to O-Zone - Dragostea Din Tei</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/22536db392e4b02c18afad418af53700.jpg" >
+		              <h3> 🎵 Listening to Clean Bandit - Symphony (feat. Zara Larsson)</h3>
     </div> 
 <!-- lastfm status ends -->
