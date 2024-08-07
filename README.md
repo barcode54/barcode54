@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/6ee30bddb52af8502fb2ce57af8db8cc.jpg" >
-		              <h3> 🎵 Listening to Alan Walker - Darkside</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2046ea9801a7b94b61196a8599e48e94.jpg" >
+		              <h3> 🎵 Listening to Fabri Fibra - In Italia 2024 (feat. Emma & Baby Gang)</h3>
     </div> 
 <!-- lastfm status ends -->
