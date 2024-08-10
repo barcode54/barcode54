@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f0f8e2df2ad52232946ddab80250953d.jpg" >
-		              <h3> 🎵 Listening to Creepy Nuts - よふかしのうた</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/03b4b7ae49253f66a4280fc534b78952.jpg" >
+		              <h3> 🎵 Listening to Miki Matsubara - Mayonaka no Door / Stay With Me</h3>
     </div> 
 <!-- lastfm status ends -->
