@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/14f63407a1020a5fdce35bdb982c11ec.jpg" >
-		              <h3> 🎵 Listening to Fly By Nightcore - Counting Stars (Switching Vocals)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b65e58ed41df1047251147ce8b1e3af3.jpg" >
+		              <h3> 🎵 Listening to majiko - 命に嫌われている。</h3>
     </div> 
 <!-- lastfm status ends -->
