@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/0619fbf5c35062269ad6cf81dfc522b4.jpg" >
-		              <h3> 🎵 Listening to Gemitaiz - Davide (feat. Coez)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/430b617f4a78f69cbfcf8ad1e90cc1f9.jpg" >
+		              <h3> 🎵 Listening to Marshmello - Spotlight</h3>
     </div> 
 <!-- lastfm status ends -->
