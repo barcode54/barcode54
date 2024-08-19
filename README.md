@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/3b1909c6f84ded4e4c85d61c65e29491.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ビターチョコデコレーション (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f06ed252f28cb5faacf0f90018772a43.jpg" >
+		              <h3> 🎵 Listening to NF - How Could You Leave Us</h3>
     </div> 
 <!-- lastfm status ends -->
