@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/b3abdec13971aaccdcee2d0759ee7a32.jpg" >
-		              <h3> 🎵 Listening to Nightcore Reality - Monsters (feat. Danika)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/8ea02283fba9eb10feec5df51df8380d.jpg" >
+		              <h3> 🎵 Listening to Demi Lovato - For the Love of a Daughter</h3>
     </div> 
 <!-- lastfm status ends -->
