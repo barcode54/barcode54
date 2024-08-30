@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/51d66d9a8bbd562f854d6a35fac5bd37.png" >
-		              <h3> 🎵 Listening to Fly By Nightcore - Be Alright (Sped Up Version)</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/1f1133697930e3fec92f82e3d0f18681.jpg" >
+		              <h3> 🎵 Listening to Sasha Alex Sloan - House With No Mirrors</h3>
     </div> 
 <!-- lastfm status ends -->
