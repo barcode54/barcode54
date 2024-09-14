@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/f514d05c88916cd7e5eb97d311883a8a.jpg" >
-		              <h3> 🎵 Listening to lollia - My R</h3>
+	              <img src="https://lastfm.freetls.fastly.net/i/u/300x300/daabf9943ef7078d52d8858b15a54d1e.jpg" >
+		              <h3> 🎵 Listening to Juju - Vermissen (feat. Henning May)</h3>
     </div> 
 <!-- lastfm status ends -->
