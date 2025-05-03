@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="" >
+	              <img src="mizu5.png" >
 		              <h3> 🎵 Listening to Capchii - What’s up? Pop!</h3>
     </div> 
 <!-- lastfm status ends -->
