@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Chinozo - Good-bye Declaration</h3>
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 (tema) - Iなんです (feat. 宵崎奏 & 朝比奈まふゆ & 東雲絵名 & 暁山瑞希 & 初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
