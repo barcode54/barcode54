@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to hitorie - wowaka 『アンノウン・マザーグース』feat. 初音ミク / wowaka - Unknown Mother-Goose  ft. Hatsune Miku</h3>
+		              <h3> 🎵 Listening to Satsuki, Hatsune Miku, & 重音テト - メズマライザー</h3>
     </div> 
 <!-- lastfm status ends -->
