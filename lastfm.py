@@ -20,7 +20,7 @@ def fetch_last(USER, KEY):
   clg = {
     "name" : name,
     "artist" : artist,
-    "image" : image
+    "image" : image if image else "mizu5.png"
   }
 
   return clg
