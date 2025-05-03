@@ -52,7 +52,7 @@ if __name__ == "__main__":
     res = '''<div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img src="{}" >
+	              <img width="300" height="300" src="{}" >
 		              <h3> 🎵 Listening to {} - {}</h3>
     </div> '''.format(data['image'], data['artist'], data['name'])
     rewritten = replace_chunk(readme_contents, "lastfm status", res)
