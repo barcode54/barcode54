@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/e4ecd32d08c4669c4ddf057baaa87938.jpg" >
-		              <h3> 🎵 Listening to XXXTENTACION - Everybody Dies in Their Nightmares</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/c124fae68d2c3ecbb404857912c2c836.png" >
+		              <h3> 🎵 Listening to maretu - aishiteitanoni</h3>
     </div> 
 <!-- lastfm status ends -->
