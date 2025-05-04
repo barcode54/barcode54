@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/8ca4085eaa603ebdc4b11c21e5de75a6.jpg" >
-		              <h3> 🎵 Listening to Izi - Casa (feat. Ensi)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/0ad0a5abd71213ed7bd4470dcdbc17f1.jpg" >
+		              <h3> 🎵 Listening to Il Tre - Te lo prometto</h3>
     </div> 
 <!-- lastfm status ends -->
