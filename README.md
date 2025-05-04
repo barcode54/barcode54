@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Tsumiki - フォニイ / phony - kafu</h3>
+		              <h3> 🎵 Listening to cosMo＠暴走P - ダイジョブですか？ - cosMo＠暴走P feat.初音ミク</h3>
     </div> 
 <!-- lastfm status ends -->
