@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to ボカロメドレー - 作業用BGM</h3>
+		              <h3> 🎵 Listening to 惡夢@Mea - ボカロメドレー！！《イヤホン推奨》※修正版</h3>
     </div> 
 <!-- lastfm status ends -->
