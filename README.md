@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to だれかの心臓になれたなら - ユリイ・カノン feat.GUMI</h3>
+		              <h3> 🎵 Listening to かまってチャンネル【公式】 - Ruru's Suicide Show on a Livestream</h3>
     </div> 
 <!-- lastfm status ends -->
