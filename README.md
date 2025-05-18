@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to かまってチャンネル【公式】 - Ruru's Suicide Show on a Livestream</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/c03a2f847c13455fc1302c7cc2cd5059.jpg" >
+		              <h3> 🎵 Listening to Ai Higuchi - Akuma no Ko</h3>
     </div> 
 <!-- lastfm status ends -->
