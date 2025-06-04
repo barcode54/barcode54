@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Astral Travel - Kikuo feat. Hatsune Miku</h3>
+		              <h3> 🎵 Listening to Taste of Beautiful - MARETU feat. Hatsune Miku</h3>
     </div> 
 <!-- lastfm status ends -->
