@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to hitorie - wowaka 『アンノウン・マザーグース』feat. 初音ミク / wowaka - Unknown Mother-Goose  ft. Hatsune Miku</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/810c08067b4cc4d768eb809001a83195.png" >
+		              <h3> 🎵 Listening to mikitoP - 少女レイ</h3>
     </div> 
 <!-- lastfm status ends -->
