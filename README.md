@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png" >
-		              <h3> 🎵 Listening to Kairiki Bear & MARETU - 失敗作少女 (MARETU Remix)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/0eddce9a0d3504c96c31e01d696b4584.jpg" >
+		              <h3> 🎵 Listening to pinocchioP - Magical Girl and Chocolate</h3>
     </div> 
 <!-- lastfm status ends -->
