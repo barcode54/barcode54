@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Hatsune Miku & cosMo＠暴走P - ヤミナベ!!!!</h3>
+		              <h3> 🎵 Listening to maretu - SIU</h3>
     </div> 
 <!-- lastfm status ends -->
