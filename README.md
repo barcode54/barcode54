@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to maretu - SIU</h3>
+		              <h3> 🎵 Listening to ぬゆり - 命ばっかり / Flower･結月ゆかり : It's Just Life / nulut,avogado6</h3>
     </div> 
 <!-- lastfm status ends -->
