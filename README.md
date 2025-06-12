@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Kairiki Bear - Darling Dance</h3>
+		              <h3> 🎵 Listening to PinocchioP & DECO*27 - 神っぽいな (DECO*27's Miku Ver.)</h3>
     </div> 
 <!-- lastfm status ends -->
