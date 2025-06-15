@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Tuyu - 過去に囚われている</h3>
+		              <h3> 🎵 Listening to Tuyu - どんな結末がお望みだい?</h3>
     </div> 
 <!-- lastfm status ends -->
