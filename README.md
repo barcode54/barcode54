@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to 雨良 Amala - ダイダイダイダイダイキライ</h3>
+		              <h3> 🎵 Listening to MisoilePunch♪ (tema) - MarbleBlue.</h3>
     </div> 
 <!-- lastfm status ends -->
