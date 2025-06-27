@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to さよならプリンセス (Sayonara Princess) - MORE MORE JUMP! × Hatsune Miku</h3>
+		              <h3> 🎵 Listening to pinocchioP - ピノキオピー - T氏の話を信じるな feat. 初音ミク・重音テト / Don’t Believe in T</h3>
     </div> 
 <!-- lastfm status ends -->
