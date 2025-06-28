@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to DECO*27 - DECO*27 - ヒバナ feat. 初音ミク</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/aaba68d157a846d491e9d941d0e51331.jpg" >
+		              <h3> 🎵 Listening to wowaka - 裏表ラバーズ</h3>
     </div> 
 <!-- lastfm status ends -->
