@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Maegamist «English sub» «Hazuki no Yume re - upload»</h3>
+		              <h3> 🎵 Listening to Tears - MARETU</h3>
     </div> 
 <!-- lastfm status ends -->
