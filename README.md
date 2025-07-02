@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to googoo888 - Luka Luka★Night Fever ルカルカ★ナイトフィーバー 巡音ルカ Project DIVA English lyrics romaji subtitles</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/eb0e4aa3991d8430ec95a619bbe01067.jpg" >
+		              <h3> 🎵 Listening to halyosy - あったかいと</h3>
     </div> 
 <!-- lastfm status ends -->
