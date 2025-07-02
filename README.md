@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Kairiki Bear - ベノム</h3>
+		              <h3> 🎵 Listening to googoo888 - Luka Luka★Night Fever ルカルカ★ナイトフィーバー 巡音ルカ Project DIVA English lyrics romaji subtitles</h3>
     </div> 
 <!-- lastfm status ends -->
