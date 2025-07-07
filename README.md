@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Kaai Yuki e Inabakumori - Lagtrain</h3>
+		              <h3> 🎵 Listening to Kaai Yuki e Inabakumori - Lost Umbrella</h3>
     </div> 
 <!-- lastfm status ends -->
