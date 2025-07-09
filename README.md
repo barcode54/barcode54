@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to HATSUNE MIKU: COLORFUL STAGE! - Gunjo Sanka by Eve 3D Music Video</h3>
+		              <h3> 🎵 Listening to The Flavor of a Cockroach (ゴキブリの味) - English subs</h3>
     </div> 
 <!-- lastfm status ends -->
