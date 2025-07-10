@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to TAVOLA OUIJA: 7 casi AGGHIACCIANTI vissuti da GENTE COMUNE - Caso #3</h3>
+		              <h3> 🎵 Listening to CAVIE UMANE: gli ESPERIMENTI più OSCURI della STORIA - L'esperimento Universo 25</h3>
     </div> 
 <!-- lastfm status ends -->
