@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Le FRASI più INQUIETANTI pronunciate dai BAMBINI - L'Inspiegabile Podcast Remastered</h3>
+		              <h3> 🎵 Listening to Il MISTERO della CAMERA 1046 - L'Inspiegabile Podcast</h3>
     </div> 
 <!-- lastfm status ends -->
