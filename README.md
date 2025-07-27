@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Romeo and Cinderella ロミオとシンデレラ - Hatsune Miku 初音ミク DIVA English lyrics romaji subtitles</h3>
+		              <h3> 🎵 Listening to Yuuyu - ゆうゆ feat.初音ミク「深海少女」 MV (Deep Sea Girl /심해소녀)　with translation</h3>
     </div> 
 <!-- lastfm status ends -->
