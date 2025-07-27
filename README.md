@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to kz(livetune) - Tell Your World</h3>
+		              <h3> 🎵 Listening to チュルリラ・チュルリラ・ダッダッダ！ - 和田たけあき(くらげP) / Chururira Chururira Daddadda! - KurageP</h3>
     </div> 
 <!-- lastfm status ends -->
