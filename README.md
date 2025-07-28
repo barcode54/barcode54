@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Where shall we go? - めろくる feat.鏡音レン 鏡音リン</h3>
+		              <h3> 🎵 Listening to hachiouji p - Gimme×Gimme Feat. Hatsune Miku・Kagamine Rin</h3>
     </div> 
 <!-- lastfm status ends -->
