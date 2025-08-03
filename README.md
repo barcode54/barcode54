@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/fb638041fee6973755b43163b233a603.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - バグ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/eb47556f1c6daa59fcc93280f5efb738.jpg" >
+		              <h3> 🎵 Listening to Kairikibear - アンヘル</h3>
     </div> 
 <!-- lastfm status ends -->
