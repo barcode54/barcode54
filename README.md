@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/545a925a5de1944f7a6ce0b703c94ffa.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ラグトレイン (feat. 宵崎奏&暁山瑞希&MEIKO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d3484672f93ebdf1fc1a616a95c10ab9.jpg" >
+		              <h3> 🎵 Listening to ぬゆり - フラジール</h3>
     </div> 
 <!-- lastfm status ends -->
