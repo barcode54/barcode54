@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/4566efc5665f53669135d881a2018927.jpg" >
-		              <h3> 🎵 Listening to はろける - CandyCookieChocolate</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/39c64e3937bf6bc4ae25e13fd82da7ab.jpg" >
+		              <h3> 🎵 Listening to Kanaria - Requiem (feat. Hoshimachi Suisei)</h3>
     </div> 
 <!-- lastfm status ends -->
