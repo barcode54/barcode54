@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/afd39406ea80a9faca6279b5fdbd3b3e.jpg" >
-		              <h3> 🎵 Listening to bl8m - Ruler of My Heart (VIVINOS - ALNST Original Soundtrack Part.5)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/282a2cf888e2ffb6204546d1da6cbb96.jpg" >
+		              <h3> 🎵 Listening to ワンダーランズ×ショウタイム - 我儘姫 (feat. 鳳えむ&草薙寧々&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
