@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/92d2ba57e6218f46ba21c473df0d555b.jpg" >
-		              <h3> 🎵 Listening to Jamie Paige - Machine Love</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/33d49bbd9917798db32dd6226f4b912e.png" >
+		              <h3> 🎵 Listening to Reol - drop pop candy (feat. ギガ)</h3>
     </div> 
 <!-- lastfm status ends -->
