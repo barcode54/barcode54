@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/3112a2ee26ae8d4de210c6ae840c959c.jpg" >
-		              <h3> 🎵 Listening to ワンダーランズ×ショウタイム - エゴロック (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/058b9ed458f274833375fe55f0b544e5.jpg" >
+		              <h3> 🎵 Listening to Leo/need - ゴーストルール (feat. 星乃一歌&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
