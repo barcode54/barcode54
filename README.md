@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/897d8a8e4c00000f7a0b94a1a6dc5d84.png" >
-		              <h3> 🎵 Listening to maretu - Magical Doctor</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/282a2cf888e2ffb6204546d1da6cbb96.jpg" >
+		              <h3> 🎵 Listening to ワンダーランズ×ショウタイム - 強風オールバック (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音リン)</h3>
     </div> 
 <!-- lastfm status ends -->
