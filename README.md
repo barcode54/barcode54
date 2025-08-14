@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/545a925a5de1944f7a6ce0b703c94ffa.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ラグトレイン (feat. 宵崎奏&暁山瑞希&MEIKO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/a51910e7e932be50713e994c43ba8358.jpg" >
+		              <h3> 🎵 Listening to Crusher-P - Again</h3>
     </div> 
 <!-- lastfm status ends -->
