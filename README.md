@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/514833ba73d71b721cb1464713c0fefa.png" >
-		              <h3> 🎵 Listening to Vivid BAD SQUAD - 劣等上等 (feat. 小豆沢こはね&白石杏&鏡音リン&鏡音レン)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/897d8a8e4c00000f7a0b94a1a6dc5d84.png" >
+		              <h3> 🎵 Listening to maretu - Koukatsu</h3>
     </div> 
 <!-- lastfm status ends -->
