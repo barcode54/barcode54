@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/9d1497da1ab58ff9c1cfe9c428288610.png" >
-		              <h3> 🎵 Listening to SLAVE.V-V-R - 『んっあっあっ。』 (feat. 初音ミク)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d83cc39bf53c9b3653fa0e11be18deab.jpg" >
+		              <h3> 🎵 Listening to Kairikibear - FAILURE GIRL - MARETU Remix</h3>
     </div> 
 <!-- lastfm status ends -->
