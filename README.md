@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/f07089c2ff94ed4d91cc37286ec4950e.jpg" >
-		              <h3> 🎵 Listening to Leo/need - すれすれ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/184fa05f5a985784f9957f8eabe9a93d.png" >
+		              <h3> 🎵 Listening to syudou - Jack Pot Sad Girl</h3>
     </div> 
 <!-- lastfm status ends -->
