@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/81a13333de84caf1c156a30645f64cc2.jpg" >
-		              <h3> 🎵 Listening to 草薙寧々 - 夜に駆ける</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/66fb58952a8ccd7cd674852660021834.jpg" >
+		              <h3> 🎵 Listening to AKUGETSU - Cure (VIVINOS - ALNST Original Soundtrack Part.7)</h3>
     </div> 
 <!-- lastfm status ends -->
