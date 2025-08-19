@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/545a925a5de1944f7a6ce0b703c94ffa.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ド屑 (feat. 朝比奈まふゆ&東雲絵名&初音ミク)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/b394f85e584fc460adac7fce4bf690a7.jpg" >
+		              <h3> 🎵 Listening to 32ki - オブソミート (feat. 初音ミク&重音テト)</h3>
     </div> 
 <!-- lastfm status ends -->
