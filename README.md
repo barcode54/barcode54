@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/aad4369267dcb709daeb2aab31368ccf.png" >
-		              <h3> 🎵 Listening to ryo (supercell) - ワールドイズマイン-初音ミク「マジカルミライ 2021」Live- (feat. 初音ミク)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/00457c24b8a6e4b202c9f44e89d98f1c.jpg" >
+		              <h3> 🎵 Listening to COOL&CREATE - Help me, ERINNNNNN!! feat.初音ミク</h3>
     </div> 
 <!-- lastfm status ends -->
