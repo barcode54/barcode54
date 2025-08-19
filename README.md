@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/66fb58952a8ccd7cd674852660021834.jpg" >
-		              <h3> 🎵 Listening to AKUGETSU - Cure (VIVINOS - ALNST Original Soundtrack Part.7)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/545a925a5de1944f7a6ce0b703c94ffa.jpg" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ド屑 (feat. 朝比奈まふゆ&東雲絵名&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
