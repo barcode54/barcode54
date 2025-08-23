@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/04ccf11093a1ab71e100ca47afd62e2c.png" >
-		              <h3> 🎵 Listening to WADATAKEAKI KurageP - ポジティヴ・ハラスメント!!!</h3>
+		              <h3> 🎵 Listening to WADATAKEAKI KurageP - ぼんじんパレード</h3>
     </div> 
 <!-- lastfm status ends -->
