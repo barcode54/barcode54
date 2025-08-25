@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/573d01f275ae41b3a91e40574ab7b687.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ザムザ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/b373b4fe6bf85c8b1f1430419c54f686.png" >
+		              <h3> 🎵 Listening to Nakiso - DOKUZU</h3>
     </div> 
 <!-- lastfm status ends -->
