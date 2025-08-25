@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/5a68acb248950a52edb4d9b09a3d5c75.png" >
-		              <h3> 🎵 Listening to Circus-P - Circus Monster</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/ecbddb899c22a9b6be2794e347b8cdc1.jpg" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ジェヘナ (feat. 東雲絵名&暁山瑞希&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
