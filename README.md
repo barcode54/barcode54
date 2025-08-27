@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/efa2d0871885cef97f3eabb79174c904.jpg" >
-		              <h3> 🎵 Listening to マサラダ - Tiny Me</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/c146d55676976c8719a4e45efda61426.jpg" >
+		              <h3> 🎵 Listening to wowaka - ワールズエンド・ダンスホール -MIKUNOPOLIS in LOS ANGELES Live-</h3>
     </div> 
 <!-- lastfm status ends -->
