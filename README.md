@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/55fae30d727dc18e6df8dfc685d5558f.jpg" >
-		              <h3> 🎵 Listening to Vivid BAD SQUAD - エゴイスト (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/a38580fcbdafa20d513fff83370e65dc.jpg" >
+		              <h3> 🎵 Listening to ryo (supercell) - ワールドイズマイン-初音ミク「マジカルミライ 2021」Live- (feat. 初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
