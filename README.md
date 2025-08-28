@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/7042f3885c743f7bb8e9e15e3d932896.jpg" >
-		              <h3> 🎵 Listening to ¿?shimon - Mr.Nihil</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/7eebb37e27e282a4101f68735701bfc7.png" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - 化けの花 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)</h3>
     </div> 
 <!-- lastfm status ends -->
