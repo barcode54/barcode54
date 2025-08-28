@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/df4424907d8513e2aa66da1d425a5647.jpg" >
-		              <h3> 🎵 Listening to Hachi - 結んで開いて羅刹と骸 - ORIGINAL</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/25c9bdb53d644994bee355f50c5aff13.jpg" >
+		              <h3> 🎵 Listening to Mothy - 悪ノ召使</h3>
     </div> 
 <!-- lastfm status ends -->
