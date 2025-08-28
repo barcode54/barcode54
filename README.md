@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d43972b3b3b91031a2298d08ce59d64c.jpg" >
-		              <h3> 🎵 Listening to Shinsei Kamattechan - るるちゃんの自殺配信</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/87d03a23bafa39fb79369af22127d978.png" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - アイディスマイル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)</h3>
     </div> 
 <!-- lastfm status ends -->
