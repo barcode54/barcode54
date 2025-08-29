@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/0c42cf7672361c0092addbb54ade970e.jpg" >
-		              <h3> 🎵 Listening to Vivid BAD SQUAD - 月光 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/0a9a6c53c31097cdb8b26ce870d8835b.jpg" >
+		              <h3> 🎵 Listening to Kairikibear - ベノム - MARETU Remix</h3>
     </div> 
 <!-- lastfm status ends -->
