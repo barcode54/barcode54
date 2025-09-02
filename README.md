@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/809ad1363585ba6c6dc7d08be78c34cc.jpg" >
-		              <h3> 🎵 Listening to KINOSHITA - ポッピンキャンディ☆フィーバー！ (feat. 音街ウナ&鏡音リン)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/bcde6985d0faf065b74a95488387bb70.jpg" >
+		              <h3> 🎵 Listening to 廉 - 冬月、凜然に帰す。</h3>
     </div> 
 <!-- lastfm status ends -->
