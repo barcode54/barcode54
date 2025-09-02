@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/fdcab8912dba9970d564c1d5732402bd.jpg" >
-		              <h3> 🎵 Listening to Tuyu - Autumn rain front</h3>
+		              <h3> 🎵 Listening to Tuyu - What if this isn't a slave?</h3>
     </div> 
 <!-- lastfm status ends -->
