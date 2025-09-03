@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/18dd99736187545673c73377dc1cdd40.jpg" >
-		              <h3> 🎵 Listening to WADATAKEAKI KurageP - キライ・キライ・ジガヒダイ!</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/a66b328e7cbdeef09be400740e939e9f.jpg" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - 25時の情熱 (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&KAITO)</h3>
     </div> 
 <!-- lastfm status ends -->
