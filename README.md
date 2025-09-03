@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/62140862a1099a70a7ab4d26e0d40bea.jpg" >
-		              <h3> 🎵 Listening to ワンダーランズ×ショウタイム - トンデモワンダーズ (feat. 天馬司&鳳えむ&草薙寧々&神代類&KAITO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/a928a08a9e8f45c25de76f890b7e59a0.jpg" >
+		              <h3> 🎵 Listening to さたぱんP - YABABAINA</h3>
     </div> 
 <!-- lastfm status ends -->
