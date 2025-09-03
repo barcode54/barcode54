@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/3b1909c6f84ded4e4c85d61c65e29491.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ビターチョコデコレーション (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/6f7b781083760da0a5c74f011d2d3464.jpg" >
+		              <h3> 🎵 Listening to Hachi - ドーナツホール</h3>
     </div> 
 <!-- lastfm status ends -->
