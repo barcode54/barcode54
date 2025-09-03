@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/dd5c4fa5bc5c3d11682864b9b588f572.jpg" >
-		              <h3> 🎵 Listening to Mcki Robyns-P - 'Cause I'm a Liar (Kokichi Oma fan song)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/1f8e1f5ede0cce38b10b7ae9526da598.png" >
+		              <h3> 🎵 Listening to 稲葉曇 - ハローマリーナ</h3>
     </div> 
 <!-- lastfm status ends -->
