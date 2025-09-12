@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/5767e995868625b257a45585ae7771b8.jpg" >
-		              <h3> 🎵 Listening to Tuyu - Trapped in the past</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/3112a2ee26ae8d4de210c6ae840c959c.jpg" >
+		              <h3> 🎵 Listening to ワンダーランズ×ショウタイム - エイリアンエイリアン (feat. 鳳えむ&草薙寧々&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
