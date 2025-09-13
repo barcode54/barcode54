@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/1d0fd3c5a54addf9c8ea6aa14c6fef9a.jpg" >
-		              <h3> 🎵 Listening to 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏 - 群青讃歌 (feat. 星乃一歌&花里みのり&小豆沢こはね&天馬司&宵崎奏&初音ミク)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/0c42cf7672361c0092addbb54ade970e.jpg" >
+		              <h3> 🎵 Listening to Vivid BAD SQUAD - 月光 (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)</h3>
     </div> 
 <!-- lastfm status ends -->
