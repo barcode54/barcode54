@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/2f0ce4147eeb2e79992e733a57397e43.jpg" >
-		              <h3> 🎵 Listening to Tuyu - It's Raining After All</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/72b0bc9a0f9673f3a12804738d004dae.jpg" >
+		              <h3> 🎵 Listening to Yuuyu - Shinkaisyouzyo -Deep Sea Girl- (feat. Hatsune Miku)</h3>
     </div> 
 <!-- lastfm status ends -->
