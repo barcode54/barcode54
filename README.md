@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/545a925a5de1944f7a6ce0b703c94ffa.jpg" >
-		              <h3> 🎵 Listening to 25時、ナイトコードで。 - Bad Apple!! feat.SEKAI</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/ee3bd58915c7b71710ac617dbd95d2f5.png" >
+		              <h3> 🎵 Listening to sasakure.UK - 39 (feat. Hatsune Miku)</h3>
     </div> 
 <!-- lastfm status ends -->
