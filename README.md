@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/966498f5bc64f9e500c4fc0b4f9b68e6.jpg" >
-		              <h3> 🎵 Listening to maretu - Dokuhaku</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/87d03a23bafa39fb79369af22127d978.png" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - 限りなく灰色へ (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン)</h3>
     </div> 
 <!-- lastfm status ends -->
