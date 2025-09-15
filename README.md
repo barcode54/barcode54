@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.jpg" >
-		              <h3> 🎵 Listening to maretu - Mind Brand</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/15cab465d098ec0a8e983e43babe33b9.jpg" >
+		              <h3> 🎵 Listening to タケノコ少年 - そうだった！！ (feat. 初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
