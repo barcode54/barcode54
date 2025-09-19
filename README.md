@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/3b03a5fe05c48761e878c1d3285ea66e.jpg" >
-		              <h3> 🎵 Listening to cosMo@Bousou-P - MACHINEGUN POEM DOLL</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/71360398e4941bf3f3be068852918fa9.jpg" >
+		              <h3> 🎵 Listening to ワンダーランズ×ショウタイム - にっこり^^調査隊のテーマ (feat. 天馬司&鳳えむ&草薙寧々&神代類&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
