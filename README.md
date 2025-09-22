@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/514833ba73d71b721cb1464713c0fefa.png" >
-		              <h3> 🎵 Listening to Vivid BAD SQUAD - 威風堂々 (feat. 東雲彰人&青柳冬弥&KAITO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/bcde6985d0faf065b74a95488387bb70.jpg" >
+		              <h3> 🎵 Listening to 廉 - 冬月、凜然に帰す。</h3>
     </div> 
 <!-- lastfm status ends -->
