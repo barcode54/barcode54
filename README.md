@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d21385732039b6cc301b0b661165925d.jpg" >
-		              <h3> 🎵 Listening to Neru - ロストワンの号哭</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/2652b6ae54b78ff1df791dbae954174c.jpg" >
+		              <h3> 🎵 Listening to Vivid BAD SQUAD - 脳内革命ガール (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
