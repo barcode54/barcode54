@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/bde3bea5910d52d4f4cbed0a3e99d07e.jpg" >
-		              <h3> 🎵 Listening to Kai - さよならプリンセス</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/df6453babc3a030c030b8eadef96b4c0.png" >
+		              <h3> 🎵 Listening to MORE MORE JUMP! - アイドル新鋭隊 (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
