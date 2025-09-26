@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/ff2d4ab85c684e1e7ad0c30504dbc19a.jpg" >
-		              <h3> 🎵 Listening to Will Stetson - Lower One's Eyes</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/db6f0cadaabcd2fd0f63cf3bebca0e98.jpg" >
+		              <h3> 🎵 Listening to Yurry Canon - スーサイドパレヱド</h3>
     </div> 
 <!-- lastfm status ends -->
