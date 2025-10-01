@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/897d8a8e4c00000f7a0b94a1a6dc5d84.png" >
-		              <h3> 🎵 Listening to maretu - Uminaoshi</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/80d3b5861d282c92f68ce0d59a5eb837.jpg" >
+		              <h3> 🎵 Listening to SLAVE.V-V-R - 追跡！家出少女の実態！ (feat. 猫村いろは&SF-A2 開発コード miki&結月ゆかり)</h3>
     </div> 
 <!-- lastfm status ends -->
