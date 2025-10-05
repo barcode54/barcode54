@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/1e928316ec4d868a6b27ec525a8d6500.jpg" >
-		              <h3> 🎵 Listening to Siinamota - Young Girl A</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/02ce1aaa0d99c7efb2a1313bf125415d.jpg" >
+		              <h3> 🎵 Listening to Nashimoto Ui - Shinitagari (feat. Hatsune Miku)</h3>
     </div> 
 <!-- lastfm status ends -->
