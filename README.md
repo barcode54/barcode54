@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/7a14706621aa9c064e02bd779d06818a.jpg" >
-		              <h3> 🎵 Listening to Hitoshizuku and Yama - Mr. Showtime (feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/450594fe747039b1d664110870ab16ba.jpg" >
+		              <h3> 🎵 Listening to SAWTOWNE - M@GICAL CURE! LOVE SHOT! (feat. Hatsune Miku)</h3>
     </div> 
 <!-- lastfm status ends -->
