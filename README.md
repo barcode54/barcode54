@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/6408a5250319493d4152a6368e5e3ce2.jpg" >
-		              <h3> 🎵 Listening to R Sound Design - flos</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/7a14706621aa9c064e02bd779d06818a.jpg" >
+		              <h3> 🎵 Listening to Hitoshizuku and Yama - Mr. Showtime (feat. 初音ミク&鏡音リン&鏡音レン&巡音ルカ&MEIKO&KAITO)</h3>
     </div> 
 <!-- lastfm status ends -->
