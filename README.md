@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/cf28fb43aa674fb8cf8a09d9ffee44fe.jpg" >
-		              <h3> 🎵 Listening to Mothy - ネメシスの銃口</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/f14fb55421cc5fe70fabc1e2d44ab341.jpg" >
+		              <h3> 🎵 Listening to nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu - Momiagewo Shakaagewo (feat. Zundamon)</h3>
     </div> 
 <!-- lastfm status ends -->
