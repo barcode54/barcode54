@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/01b30a5faca3ad8219281672feceb0d7.jpg" >
-		              <h3> 🎵 Listening to Kikuo - イイコと妖狐</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/3fa504d64a2ce7381905e43e3b403f78.jpg" >
+		              <h3> 🎵 Listening to Apocalipsis - 【鬼蜘蛛ト狐ノ獅子ト】The Spider and the Kitsune-Like Lion</h3>
     </div> 
 <!-- lastfm status ends -->
