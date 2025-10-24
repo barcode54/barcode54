@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/c2bf3a836672f094ee6163f67a78d36d.jpg" >
-		              <h3> 🎵 Listening to Nashimoto Ui - Kakokyu Dance (feat. HATSUNE MIKU)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/df5822b6c743ed71f3817fb7f2cdee11.png" >
+		              <h3> 🎵 Listening to Mothy - 円尾坂の仕立屋</h3>
     </div> 
 <!-- lastfm status ends -->
