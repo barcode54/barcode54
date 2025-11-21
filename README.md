@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/cf17b193ee83b48cedcc31cffaa9a1ad.jpg" >
-		              <h3> 🎵 Listening to NEEDY GIRL OVERDOSE - Even Angels Get Emotional (feat. Aiobahn +81)</h3>
+		              <h3> 🎵 Listening to NEEDY GIRL OVERDOSE - Angel's Rest (feat. Aiobahn +81)</h3>
     </div> 
 <!-- lastfm status ends -->
