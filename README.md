@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to NEEDY GIRL OVERDOSE - Topic - Angel emotion (feat. Aiobahn +81)</h3>
+		              <h3> 🎵 Listening to NEEDY GIRL OVERDOSE - Topic - Angels of the Apocalypse</h3>
     </div> 
 <!-- lastfm status ends -->
