@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to NEEDY GIRL OVERDOSE - Topic - Angels of the Apocalypse</h3>
+		              <h3> 🎵 Listening to 病み可愛い！ボカロ人気曲メドレー - アタシ：アップデート</h3>
     </div> 
 <!-- lastfm status ends -->
