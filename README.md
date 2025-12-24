@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/ebe729eb7ba9dc81c9a288a9d8fdc4c5.jpg" >
-		              <h3> 🎵 Listening to PARK BYEONG HOON - Nowhere (VIVINOS - ALNST Sub : Ivan Part.1)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/4d48c0b956063dd93893a07ba320abc8.jpg" >
+		              <h3> 🎵 Listening to 9Lana - MONOLOG</h3>
     </div> 
 <!-- lastfm status ends -->
