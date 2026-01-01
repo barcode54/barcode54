@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.jpg" >
-		              <h3> 🎵 Listening to maretu - Brain Revolution Girl 2016 Ver.</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/637113e717d44f446a5dcaf6d090275d.png" >
+		              <h3> 🎵 Listening to Capchii - What's up? Pop! (feat. 初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
