@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d83cc39bf53c9b3653fa0e11be18deab.jpg" >
-		              <h3> 🎵 Listening to Kairikibear - FAILURE GIRL - MARETU Remix</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/acc255ed898a74796502e6e8ceb3f848.jpg" >
+		              <h3> 🎵 Listening to Kanaria - ヒトリユラリ - MARETU REMIX</h3>
     </div> 
 <!-- lastfm status ends -->
