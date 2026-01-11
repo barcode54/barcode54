@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to STUDY WITH MIKU - 『リモコン』 じーざす(ワンダフル☆オポチュニティ!)</h3>
+		              <h3> 🎵 Listening to STUDY WITH MIKU - 『恋愛裁判』 40ｍP</h3>
     </div> 
 <!-- lastfm status ends -->
