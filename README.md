@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d068ea71db6d21811176dfca1a0e3797.jpg" >
-		              <h3> 🎵 Listening to Nashimoto Ui - Enko Shoujo (Street girl) [feat. HATSUNE MIKU]</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/d0df777d889e0a865b773499c4c16f1c.png" >
+		              <h3> 🎵 Listening to Kairikibear - CARNIVAL HAPPY</h3>
     </div> 
 <!-- lastfm status ends -->
