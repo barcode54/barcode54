@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/f2f195574f220122ccb1b068722b1b07.jpg" >
-		              <h3> 🎵 Listening to maretu - NYAN (feat. HATSUNE MIKU)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.jpg" >
+		              <h3> 🎵 Listening to maretu - Brain Revolution Girl 2016 Ver.</h3>
     </div> 
 <!-- lastfm status ends -->
