@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/747b8749cdfec4b118caa631e6221973.png" >
-		              <h3> 🎵 Listening to Kai - Laplace's Chocolat</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/ecbddb899c22a9b6be2794e347b8cdc1.jpg" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ジェヘナ (feat. 東雲絵名&暁山瑞希&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
