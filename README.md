@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/cd067bcb21b4c8df2d8ff9737d61efe4.jpg" >
-		              <h3> 🎵 Listening to Mikito P - ROKI</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/5b10142f0f078e3b5be8316910e3f66e.jpg" >
+		              <h3> 🎵 Listening to 25時、ナイトコードで。 - ジャックポットサッドガール (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)</h3>
     </div> 
 <!-- lastfm status ends -->
