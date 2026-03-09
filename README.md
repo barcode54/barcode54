@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/18dc7984950143c77cc950297fc98967.jpg" >
-		              <h3> 🎵 Listening to DenkiQujira - Goodbye, Ghost-city (feat. Genmai Nekomanma)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/bc80e6074e9d28cfe3d9283e49990109.jpg" >
+		              <h3> 🎵 Listening to 薄塩指数 - だめにんげんだ! (feat. 重音テト)</h3>
     </div> 
 <!-- lastfm status ends -->
