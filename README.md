@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/71ba538f9d5738f59b0f7d592f00e6aa.jpg" >
-		              <h3> 🎵 Listening to Owata-P - リンちゃんなう！</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/de30a0f676df52a4962f4f13dc5aeb26.jpg" >
+		              <h3> 🎵 Listening to wowaka - 裏表ラバーズ -MIKUNOPOLIS in LOS ANGELES Live</h3>
     </div> 
 <!-- lastfm status ends -->
