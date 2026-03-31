@@ -12,6 +12,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/26bd808c6191dffa06dc18d891e1d2e4.png" >
-		              <h3> 🎵 Listening to Abuse - God, please () me, a monster.</h3>
+		              <h3> 🎵 Listening to Abuse - iesu</h3>
     </div> 
 <!-- lastfm status ends -->
