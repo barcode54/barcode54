@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/c146d55676976c8719a4e45efda61426.jpg" >
-		              <h3> 🎵 Listening to cosMo@Bousou-P - 初音ミクの消失 -MIKUNOPOLIS in LOS ANGELES Live-</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/583d97adcf68fb61d2f3403839f6a548.png" >
+		              <h3> 🎵 Listening to PEPOYO - The song that was supposed to appear on IPPUN_GP</h3>
     </div> 
 <!-- lastfm status ends -->
