@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/2f395862f9254a4a2561e984ea6fc5be.jpg" >
-		              <h3> 🎵 Listening to Ro2noki - Hymn to the Decadent Life</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/b474e0d89f03b8ad3dc8edc94f31cdda.jpg" >
+		              <h3> 🎵 Listening to Kairikibear - DISAPPEARANCE ADDICTION - MARETU Remix</h3>
     </div> 
 <!-- lastfm status ends -->
