@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.jpg" >
-		              <h3> 🎵 Listening to maretu - Sanjyou</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/55841973798e80b02de5d9caab3a9148.jpg" >
+		              <h3> 🎵 Listening to Mushi-P - Color & Electricity (feat. Hatsune Miku)</h3>
     </div> 
 <!-- lastfm status ends -->
