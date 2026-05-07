@@ -11,7 +11,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/a6387576d0615f102eadd5a219e267ee.jpg" >
-		              <h3> 🎵 Listening to Mili - Gewalt (feat. Toshiki Soejima)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.jpg" >
+		              <h3> 🎵 Listening to maretu - Sanjyou</h3>
     </div> 
 <!-- lastfm status ends -->
