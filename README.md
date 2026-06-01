@@ -1,4 +1,4 @@
-# Hi there 
+# Hi there 🫧
 ### Amelia | 19 | Italy
 > developer | artist | voca-P
 
