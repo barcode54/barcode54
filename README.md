@@ -10,7 +10,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/fbae17fd41d9237d46f2d9857fed1554.jpg" >
-		              <h3> 🎵 Listening to maretu - 脳内革命ガール-初音ミク「マジカルミライ 2021」Live- (feat. 初音ミク)</h3>
+	              <img width="300" height="300" src="mizu5.png" >
+		              <h3> 🎵 Listening to Top Piano Tutorials - 失敗作少女 (Failure Girl) feat.初音ミク (Hatsune Miku)</h3>
     </div> 
 <!-- lastfm status ends -->
