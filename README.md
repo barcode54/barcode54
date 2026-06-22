@@ -10,7 +10,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/2f4be64e13f5efedad0cd3853dbd6ec1.jpg" >
-		              <h3> 🎵 Listening to STEAKA - SAN値直葬 (feat. 初音ミク)</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/dc7a2d9992aa8805eddc127184780767.jpg" >
+		              <h3> 🎵 Listening to Nakiso - DOKUZU - STEAKA Remix</h3>
     </div> 
 <!-- lastfm status ends -->
