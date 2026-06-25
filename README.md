@@ -10,7 +10,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/947dba8525851f9a697cd9678e58e26d.jpg" >
-		              <h3> 🎵 Listening to maretu - Brain Revolution Girl 2016 Ver.</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/9c904fdc0eb9542f9122e112fafc8531.jpg" >
+		              <h3> 🎵 Listening to Biz - Love cat (feat. LOLUET)</h3>
     </div> 
 <!-- lastfm status ends -->
