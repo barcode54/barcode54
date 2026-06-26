@@ -10,7 +10,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/5c89485ae7ef81e906a25ad6dc951524.jpg" >
-		              <h3> 🎵 Listening to syudou - I’m a Ghost Type</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/7a670a00af478d15eec8cfaf45fe379d.png" >
+		              <h3> 🎵 Listening to Nakiso - Punish Then Save</h3>
     </div> 
 <!-- lastfm status ends -->
