@@ -10,7 +10,7 @@
 <div>
     		      <hr>
     		      <h3>Lastfm status</h3>
-	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/b35c948041adbdffaf34e6ce6b0fb448.png" >
-		              <h3> 🎵 Listening to Fujiwo - Spoiled princess</h3>
+	              <img width="300" height="300" src="https://lastfm.freetls.fastly.net/i/u/300x300/18baeb9901ce16302c5972dd79ef9690.png" >
+		              <h3> 🎵 Listening to nunununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununununu - Momiagewo Shakaagewo (feat. Zundamon)</h3>
     </div> 
 <!-- lastfm status ends -->
