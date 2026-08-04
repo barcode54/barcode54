@@ -11,6 +11,6 @@
     		      <hr>
     		      <h3>Lastfm status</h3>
 	              <img width="300" height="300" src="mizu5.png" >
-		              <h3> 🎵 Listening to Dr Insanity - Teen Realizes He Accidentally Recorded A Mass Stabbing</h3>
+		              <h3> 🎵 Listening to Dr Insanity - College Killer Thinks He Can Get Away With It</h3>
     </div> 
 <!-- lastfm status ends -->
